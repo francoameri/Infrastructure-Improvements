@@ -13,3 +13,16 @@ What will you see here?
 -Project Management.
 -Budget Management.
 -Planning for future Scalability and Security.
+
+First Scenario - Original Infrastructure:
+
+-5 unnecessary ISPs, can easily reduce it to just 3.
+-Low fault tolerance: only 1 router/firewall between LAN/WAN, 1 core switch for the whole Infrastructure.
+-Almost no redundancy, only on the Data Base.
+
+Proposed Scenario - New deployment.
+
+-Mesh topology in the Backbone Infrastructure.
+-High Availability and Fault Tolerance with 2 Router/Firewalls and 2 Core Switches.
+-Proxmox Hypervisor to reduce unnecessary Endpoints.
+-WLC and 2 APs to reduce the 2 unnecessary ISPs.
