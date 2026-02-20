@@ -13,6 +13,7 @@ What will you see here?
 -Project Management.
 -Budget Management.
 -Planning for future Scalability and Security.
+-Change Management.
 
 First Scenario - Original Infrastructure:
 
