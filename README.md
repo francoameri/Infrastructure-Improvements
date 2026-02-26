@@ -21,7 +21,7 @@ First Scenario - Original Infrastructure -> https://github.com/francoameri/Infra
 -Low fault tolerance: only 1 router/firewall between LAN/WAN, 1 core switch for the whole Infrastructure.
 -Almost no redundancy, only on the Data Base.
 
-Proposed Scenario - New deployment.
+Proposed Scenario - New deployment -> https://github.com/francoameri/Infrastructure-Improvements/blob/main/New%20Deployment.png
 
 -Mesh topology in the Backbone Infrastructure.
 -High Availability and Fault Tolerance with 2 Router/Firewalls and 2 Core Switches.
