@@ -15,14 +15,20 @@ This project was based on a survey conducted in a local SMB where the infrastruc
 
 🏗️ First Scenario – Original Infrastructure
 
-📌 Original Infrastructure Diagram -> https://github.com/francoameri/Infrastructure-Improvements/blob/main/Original%20Infrastructure.png
+
+![Original Infrastructure](Original%20Infrastructure.png)
+
+
 - ❌ 5 unnecessary ISPs (can be reduced to 3).
 - ⚠️ Low fault tolerance: only 1 router/firewall between LAN/WAN and 1 core switch for the entire infrastructure.
 - 🔄 Almost no redundancy, except in the database.
 
 🚀 Proposed Scenario – New Deployment
 
-📌 New Deployment Diagram -> https://github.com/francoameri/Infrastructure-Improvements/blob/main/New%20Deployment.png
+
+![New Deployment](New%20Deployment.png)
+
+
 - 🌐 Mesh topology in the backbone infrastructure.
 - 🛡️ High Availability and Fault Tolerance with 2 routers/firewalls and 2 core switches.
 - 💻 Proxmox Hypervisor to reduce unnecessary endpoints.
