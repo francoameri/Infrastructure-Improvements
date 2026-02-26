@@ -15,7 +15,7 @@ What will you see here?
 -Planning for future Scalability and Security.
 -Change Management.
 
-First Scenario - Original Infrastructure:
+First Scenario - Original Infrastructure -> https://github.com/francoameri/Infrastructure-Improvements/blob/main/Original%20Infrastructure.png
 
 -5 unnecessary ISPs, can easily reduce it to just 3.
 -Low fault tolerance: only 1 router/firewall between LAN/WAN, 1 core switch for the whole Infrastructure.
