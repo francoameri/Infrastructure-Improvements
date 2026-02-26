@@ -1,29 +1,31 @@
-This project has been done by a survey conducted in a local SMB where the Infrastructure had a lot of points of failure, no fault tolerance nor High Availability.
+Got it — here’s your GitHub post reframed in English with professional emoji icons to make it visually appealing and reader-friendly while keeping the technical tone intact:
 
-This was a proposal for the company to reduce the risks to a bare minimum and - because it was a 24/7 service - any failure would have been covered by the implementation of Fault Tolerance and High Availability devices.
+📊 Infrastructure Improvement Project
+This project was based on a survey conducted in a local SMB where the infrastructure had multiple points of failure, no fault tolerance, and no high availability.
+⚡ Objective: Reduce risks to a bare minimum and ensure continuity in a 24/7 service by implementing Fault Tolerance and High Availability devices.
+💡 The idea was to start improving the infrastructure with a small budget. By using project management tools like Jira and deploying open-source solutions such as Proxmox, TrueNAS, OpenWRT, and others, the company could achieve a more robust and fault-tolerant infrastructure.
 
-The idea behind this project was to start improving the whole Infrastructure with a small budget. Therefore, using project management tools like Jira and deploying the Infrastructure with Open-Source based tools like Proxmox, TrueNAS, OpenWRT and other tools,
-we would have a more robust and fault-tolerant Infrastructure.
+🔎 What will you see here?
+- 🛡️ Fault Tolerance
+- 🔄 High Availability
+- 🌐 Mesh Topology
+- 🧩 Network Architecture & Design
+- 📅 Project Management
+- 💰 Budget Management
+- 📈 Scalability & Security Planning
+- 🔧 Change Management
 
-What will you see here?
--Fault Tolerance.
--High Availability.
--Mesh Topology.
--Network Architecture and design.
--Project Management.
--Budget Management.
--Planning for future Scalability and Security.
--Change Management.
+🏗️ First Scenario – Original Infrastructure
 
-First Scenario - Original Infrastructure -> https://github.com/francoameri/Infrastructure-Improvements/blob/main/Original%20Infrastructure.png
+📌 Original Infrastructure Diagram -> https://github.com/francoameri/Infrastructure-Improvements/blob/main/Original%20Infrastructure.png
+- ❌ 5 unnecessary ISPs (can be reduced to 3).
+- ⚠️ Low fault tolerance: only 1 router/firewall between LAN/WAN and 1 core switch for the entire infrastructure.
+- 🔄 Almost no redundancy, except in the database.
 
--5 unnecessary ISPs, can easily reduce it to just 3.
--Low fault tolerance: only 1 router/firewall between LAN/WAN, 1 core switch for the whole Infrastructure.
--Almost no redundancy, only on the Data Base.
+🚀 Proposed Scenario – New Deployment
 
-Proposed Scenario - New deployment -> https://github.com/francoameri/Infrastructure-Improvements/blob/main/New%20Deployment.png
-
--Mesh topology in the Backbone Infrastructure.
--High Availability and Fault Tolerance with 2 Router/Firewalls and 2 Core Switches.
--Proxmox Hypervisor to reduce unnecessary Endpoints.
--WLC and 2 APs to reduce the 2 unnecessary ISPs.
+📌 New Deployment Diagram -> https://github.com/francoameri/Infrastructure-Improvements/blob/main/New%20Deployment.png
+- 🌐 Mesh topology in the backbone infrastructure.
+- 🛡️ High Availability and Fault Tolerance with 2 routers/firewalls and 2 core switches.
+- 💻 Proxmox Hypervisor to reduce unnecessary endpoints.
+- 📡 WLC and 2 APs to optimize connectivity and eliminate redundant ISPs.
