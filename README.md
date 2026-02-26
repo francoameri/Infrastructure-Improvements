@@ -1,5 +1,3 @@
-Got it — here’s your GitHub post reframed in English with professional emoji icons to make it visually appealing and reader-friendly while keeping the technical tone intact:
-
 📊 Infrastructure Improvement Project
 This project was based on a survey conducted in a local SMB where the infrastructure had multiple points of failure, no fault tolerance, and no high availability.
 ⚡ Objective: Reduce risks to a bare minimum and ensure continuity in a 24/7 service by implementing Fault Tolerance and High Availability devices.
