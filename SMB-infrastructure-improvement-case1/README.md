@@ -16,7 +16,7 @@ This project was based on a survey conducted in a local SMB where the infrastruc
 🏗️ First Scenario – Original Infrastructure
 
 
-![Original Infrastructure](Original%20Infrastructure.png)
+![Original Infrastructure](images/Original%20Infrastructure.png)
 
 
 - ❌ 5 unnecessary ISPs (can be reduced to 3).
@@ -26,7 +26,7 @@ This project was based on a survey conducted in a local SMB where the infrastruc
 🚀 Proposed Scenario – New Deployment
 
 
-![New Deployment](New%20Deployment.png)
+![New Deployment](images/New%20Deployment.png)
 
 
 - 🌐 Mesh topology in the backbone infrastructure.
