@@ -1,6 +1,8 @@
 📊 Infrastructure Improvement Project
 This project was based on a survey conducted in a local SMB where the infrastructure had multiple points of failure, no fault tolerance, and no high availability.
+
 ⚡ Objective: Reduce risks to a bare minimum and ensure continuity in a 24/7 service by implementing Fault Tolerance and High Availability devices.
+
 💡 The idea was to start improving the infrastructure with a small budget. By using project management tools like Jira and deploying open-source solutions such as Proxmox, TrueNAS, OpenWRT, and others, the company could achieve a more robust and fault-tolerant infrastructure.
 
 🔎 What will you see here?
