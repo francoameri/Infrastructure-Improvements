@@ -35,3 +35,14 @@ This project was based on a survey conducted in a local SMB where the infrastruc
 - 🛡️ High Availability and Fault Tolerance with 2 routers/firewalls and 2 core switches.
 - 💻 Proxmox Hypervisor to reduce unnecessary endpoints.
 - 📡 WLC and 2 APs to optimize connectivity and eliminate redundant ISPs.
+
+📚 Lessons Learned
+- Redundancy is non‑negotiable: Even small infrastructures need multiple paths and devices to avoid single points of failure.
+- Budget constraints drive creativity: Open‑source solutions like Proxmox, TrueNAS, and OpenWRT can deliver enterprise‑grade resilience without heavy licensing costs.
+- Project management matters: Using tools like Jira ensured visibility, accountability, and structured rollout, reducing risks during migration.
+- Network design impacts scalability: Moving to a mesh backbone and introducing HA routers/firewalls created a foundation for future growth.
+- ISP rationalization improves stability: Reducing from five providers to three cut costs and simplified troubleshooting, while still maintaining redundancy.
+- Virtualization consolidates resources: Proxmox reduced unnecessary endpoints, lowering hardware overhead and improving manageability.
+- Change management is critical: Documenting each step and validating improvements minimized disruption and built confidence in the new setup.
+- Security and availability go hand‑in‑hand: Fault tolerance and HA not only protect uptime but also strengthen the overall security posture by eliminating weak links.
+
