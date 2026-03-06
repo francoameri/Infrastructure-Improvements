@@ -27,3 +27,13 @@ This repository serves as a living portfolio of infrastructure engineering pract
 ---
 
 🔗 Explore the scenarios, adapt them to your own labs, and use them as inspiration for building resilient, scalable, and secure infrastructures.
+
+---
+
+## 🤝 Contributions
+This repository is personal and experience-driven, but feedback and ideas are welcome.  
+If you’ve faced similar challenges, feel free to share your approach or suggest improvements.
+
+- 💼 [LinkedIn](https://linkedin.com/in/fameri)  
+- 🌐 [GitHub](https://github.com/francoameri)  
+- ✉️ famerisbraccia@gmail.com
