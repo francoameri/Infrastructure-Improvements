@@ -79,4 +79,7 @@ It is intended for recruiters, peers, and IT professionals interested in **fault
 
 ---
 
-> Keywords: `high-availability`, `fault-tolerance`, `proxmox`, `truenas`, `openwrt`, `network-architecture`, `case-study`
+## 🔑 Keywords
+
+> High Availability, Fault Tolerance, Mesh Topology, Proxmox Virtualization, TrueNAS Storage, OpenWRT Networking, Network Architecture & Design, Project Management (Jira), Cost-Conscious Infrastructure, Scalability & Security Planning, Change Management, SMB Infrastructure Case Study, Enterprise-Grade Resilience, Risk Analysis & Mitigation
+
